@@ -1,4 +1,4 @@
-package com.olympic.test;
+package com.ebees.test;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -13,7 +13,7 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
-public class OlympicTestMain {
+public class EbeesTestMain {
 
 	private static final String URL = "https://shop.countdown.co.nz/";
 	private static final String EMAIL = "dilini2007@gmail.com";
