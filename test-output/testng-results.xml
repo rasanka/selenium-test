@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="67874" started-at="2019-01-26T01:23:41Z" finished-at="2019-01-26T01:24:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="67874" started-at="2019-01-26T01:23:41Z" finished-at="2019-01-26T01:24:49Z">
+      <class name="com.olympic.test.olympictrial">
+        <test-method status="PASS" signature="invokeBrowser()[pri:0, instance:com.olympic.test.olympictrial@7c0e2abd]" name="invokeBrowser" is-config="true" duration-ms="7332" started-at="2019-01-26T14:23:41Z" finished-at="2019-01-26T14:23:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method status="PASS" signature="loginUserTest()[pri:1, instance:com.olympic.test.olympictrial@7c0e2abd]" name="loginUserTest" duration-ms="26195" started-at="2019-01-26T14:23:48Z" finished-at="2019-01-26T14:24:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginUserTest -->
+        <test-method status="PASS" signature="searchShopFromListTest()[pri:2, instance:com.olympic.test.olympictrial@7c0e2abd]" name="searchShopFromListTest" duration-ms="6562" started-at="2019-01-26T14:24:14Z" finished-at="2019-01-26T14:24:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchShopFromListTest -->
+        <test-method status="PASS" signature="enterItemListTest()[pri:3, instance:com.olympic.test.olympictrial@7c0e2abd]" name="enterItemListTest" duration-ms="3122" started-at="2019-01-26T14:24:21Z" finished-at="2019-01-26T14:24:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterItemListTest -->
+        <test-method status="PASS" signature="findFromSearchResultTest()[pri:4, instance:com.olympic.test.olympictrial@7c0e2abd]" name="findFromSearchResultTest" duration-ms="6552" started-at="2019-01-26T14:24:24Z" finished-at="2019-01-26T14:24:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findFromSearchResultTest -->
+        <test-method status="PASS" signature="selectTheProductTest()[pri:5, instance:com.olympic.test.olympictrial@7c0e2abd]" name="selectTheProductTest" duration-ms="3321" started-at="2019-01-26T14:24:31Z" finished-at="2019-01-26T14:24:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectTheProductTest -->
+        <test-method status="PASS" signature="addToTrolyTest()[pri:6, instance:com.olympic.test.olympictrial@7c0e2abd]" name="addToTrolyTest" duration-ms="3317" started-at="2019-01-26T14:24:34Z" finished-at="2019-01-26T14:24:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToTrolyTest -->
+        <test-method status="PASS" signature="selectTheTrolyTest()[pri:7, instance:com.olympic.test.olympictrial@7c0e2abd]" name="selectTheTrolyTest" duration-ms="3275" started-at="2019-01-26T14:24:37Z" finished-at="2019-01-26T14:24:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectTheTrolyTest -->
+        <test-method status="PASS" signature="clickViewAllTest()[pri:8, instance:com.olympic.test.olympictrial@7c0e2abd]" name="clickViewAllTest" duration-ms="3299" started-at="2019-01-26T14:24:41Z" finished-at="2019-01-26T14:24:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickViewAllTest -->
+        <test-method status="PASS" signature="saveTrolyTest()[pri:9, instance:com.olympic.test.olympictrial@7c0e2abd]" name="saveTrolyTest" duration-ms="3614" started-at="2019-01-26T14:24:44Z" finished-at="2019-01-26T14:24:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- saveTrolyTest -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:com.olympic.test.olympictrial@7c0e2abd]" name="quitBrowser" is-config="true" duration-ms="1222" started-at="2019-01-26T14:24:47Z" finished-at="2019-01-26T14:24:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- com.olympic.test.olympictrial -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
