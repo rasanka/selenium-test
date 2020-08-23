@@ -30,6 +30,7 @@ public class EbeesCritical {
 		productList.addAll(Arrays.asList("Apples", "Bread", "Milk"));
 	}
 
+	// Test
 	@AfterTest
 	public void quitBrowser() {
 		driver.quit();
